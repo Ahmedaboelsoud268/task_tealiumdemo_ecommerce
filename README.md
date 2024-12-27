@@ -1,5 +1,3 @@
-# task_tealiumdemo_ecoomerce
-
 # Project Overview
 
 This project involves testing key features of an application, including user registration, login, and end-to-end functionality from login to adding products to the cart.
